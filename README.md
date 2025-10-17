@@ -51,7 +51,7 @@ Markdown format:
    - GameFormer：分层博弈论 + Transformer，破解自动驾驶多智能体交互难题[gameformer](https://mp.weixin.qq.com/s/QWjatcDrGqggDQXRQetl1A)
      - [GameFormer: Game-theoretic Modeling and Learning of Transformer-based Interactive Prediction and Planning for Autonomous Driving](https://arxiv.org/pdf/2303.05760) 
      
-- [Learning-based pridiction](#Learning-based pridiction)
+- [Learning-based pridiction](#Learning-basedpridiction)
   
    - CVPR 重磅研究：上交大提出开源 Leapfrog diffusion 扩散模型高效解决轨迹预测“快、准、多”三大关键挑战[Leapfrog diffusion](https://mp.weixin.qq.com/s/zgA45cbNy4EPSZ2tcT8sRw)
      - [Leapfrog Diffusion Model for Stochastic Trajectory Prediction](https://openaccess.thecvf.com/content/CVPR2023/papers/Mao_Leapfrog_Diffusion_Model_for_Stochastic_Trajectory_Prediction_CVPR_2023_paper.pdf)
