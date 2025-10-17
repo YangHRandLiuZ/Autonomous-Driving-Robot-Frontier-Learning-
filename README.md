@@ -62,11 +62,12 @@ Markdown format:
 - [SLAM](#SLAM)
   
   - GRAND-SLAM：面向大规模多智能体户外场景的全局一致高斯溅射 SLAM 方法[GRAND-SLAM](https://mp.weixin.qq.com/s/36W9DB_0CnmZkE4b_jJE5g)
-    -  
+    -  (GRAND-SLAM: Local Optimization for Globally Consistent Large-Scale Multi-Agent Gaussian SLAM)[https://arxiv.org/pdf/2506.18885]
   
 - [Detection](#Detection)
   
    - 从“仓库分拣员的困境”看YOLO26如何破解边缘AI检测的核心难题——架构革新与部署实践全解析[YOLO](https://mp.weixin.qq.com/s/4y7BnExTHUv2WNuK8pTnBg)
+     - (YOLO26：KEY ARCHITECTURAL ENHANCEMENTS AND PERFORMANCE BENCHMARKING FOR REAL-TIME OBJECT DETECTION)[https://arxiv.org/pdf/2509.25164]
      
 - [](#)
 
